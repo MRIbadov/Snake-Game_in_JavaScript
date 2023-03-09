@@ -1,0 +1,22 @@
+.gameContainer
+{
+    text-align: center;
+}
+#gameBoard
+{
+    border: 3px solid black;
+}
+
+.score
+{
+    font-family:cursive;
+    font-size: 100px;
+}
+
+#restartBtn
+{
+    border: 13px solid black;
+    font-size: 34px;
+    font-family: cursive;
+    border-radius: 40px;
+}
